@@ -17,7 +17,7 @@
 
    ![image](https://github.com/user-attachments/assets/f9fad0e3-00b3-4692-977b-13bee2e4b5ad)
 
-3. 为该页面添加 SSL 证书：
+3. 为该页面添加 SSL 证书（可以跳过这一步，非必须）：
 
    ![image](https://github.com/user-attachments/assets/d519549e-a8ea-480f-9bcb-ecfc7379240c)  
    ![image](https://github.com/user-attachments/assets/ee0eea93-d958-469c-9b6b-34510a0c2e1e)  
