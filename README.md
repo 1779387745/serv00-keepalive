@@ -115,4 +115,5 @@ app.listen(3000, () => {
 
 ## step 5: 最后
 
-如果有更复杂的需求或者问题，欢迎随时向我发送邮件：qwsudo@gmail.com
+如果有更复杂的需求或者问题，可以发 issue.
+部署完以后，看看这个文件：![keep.sh](https://github.com/QWsudo/serv00-keepalive/blob/main/keep.sh)。你可以在软路由，你的 vps，甚至 serv00 之间实现全自动保活。
